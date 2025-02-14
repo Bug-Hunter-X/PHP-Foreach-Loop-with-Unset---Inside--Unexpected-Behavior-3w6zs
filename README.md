@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error in PHP related to using unset() within a foreach loop iterating over an array.  The example shows how the loop operates on a copy of the array, resulting in incomplete element removal.  The solution showcases proper array manipulation to achieve the intended outcome of removing all elements with a specific value.
